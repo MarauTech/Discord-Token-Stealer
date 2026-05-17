@@ -180,7 +180,7 @@ Ten projekt jest udostępniony na licencji MIT. Zobacz plik LICENSE dla szczegó
 
 ### Autor
 
-Made by MT-DEVELOPMENT
+Made by Wisnia
 GitHub: https://github.com/MarauTech
 
 ---
@@ -365,7 +365,7 @@ This project is released under the MIT license. See LICENSE file for details.
 
 ### Author
 
-Made by MT-DEVELOPMENT
+Made by Wisnia
 GitHub: https://github.com/MarauTech
 
 ---
