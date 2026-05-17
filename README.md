@@ -1,8 +1,4 @@
-# Discord Token Stealer
 
-## 🇵🇱 POLSKA WERSJA / 🇺🇸 ENGLISH VERSION
-
----
 
 ## 🇵🇱 POLSKA WERSJA
 
